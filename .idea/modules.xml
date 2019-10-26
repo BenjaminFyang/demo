@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../demo/demo.iml" filepath="$PROJECT_DIR$/../demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/f4086h.iml" filepath="$PROJECT_DIR$/.idea/f4086h.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-part1/imooc-c1-local-tran-jdbc/local-tran-jdbc.iml" filepath="$PROJECT_DIR$/code-part1/imooc-c1-local-tran-jdbc/local-tran-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-part1/imooc-c4-spring-cloud/order/order.iml" filepath="$PROJECT_DIR$/code-part1/imooc-c4-spring-cloud/order/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-part1/imooc-c4-spring-cloud/proxy/proxy.iml" filepath="$PROJECT_DIR$/code-part1/imooc-c4-spring-cloud/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-part1/imooc-c4-spring-cloud/registry/registry.iml" filepath="$PROJECT_DIR$/code-part1/imooc-c4-spring-cloud/registry/registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-part1/imooc-c4-spring-cloud/service/service.iml" filepath="$PROJECT_DIR$/code-part1/imooc-c4-spring-cloud/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code-part1/imooc-c4-spring-cloud/user/user.iml" filepath="$PROJECT_DIR$/code-part1/imooc-c4-spring-cloud/user/user.iml" />
+    </modules>
+  </component>
+</project>
